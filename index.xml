@@ -143,6 +143,14 @@
 &amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;
 &amp;lt;p&amp;gt;Поиск подходящего жилья;&amp;lt;/p&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;
+&amp;lt;p&amp;gt;Если не знаете, что ищете, и это влезает в ваш бюджет, ищите жильё 1992 года постройки и новее, тем самым вы значительно снижаете вероятность серьёзно ошибиться, и получаете жильё с энергоэффективностью B или лучше. Из документации компании которая выдаёт energy labels:&amp;lt;/p&amp;gt;
+&amp;lt;blockquote&amp;gt;
+&amp;lt;p&amp;gt;Under energy label regulations, the starting point for the insulation values of structures is the year of construction of the property. Only if evidence/documentation is provided that shows better insulation values can be taken into account by the energy adviser. PLEASE NOTE: For houses built before 1992, it is therefore very important to provide documentation/evidence.&amp;lt;/p&amp;gt;
+&amp;lt;/blockquote&amp;gt;
+&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
 &amp;lt;/li&amp;gt;
 &amp;lt;li&amp;gt;
 &amp;lt;p&amp;gt;Ставки на понравившиеся варианты;&amp;lt;/p&amp;gt;
@@ -165,9 +173,7 @@
 &amp;lt;/li&amp;gt;
 &amp;lt;/ul&amp;gt;
 &amp;lt;h3 id=&amp;#34;national-mortgage-guarantee&amp;#34;&amp;gt;National Mortgage Guarantee&amp;lt;/h3&amp;gt;
-&amp;lt;p&amp;gt;Чтобы на неё податься нужно чтобы и ипотека, и рыночная цена дома были ниже установленной &amp;lt;a href=&amp;#34;https://www.nhg.nl/&amp;#34;&amp;gt;NHG&amp;lt;/a&amp;gt; суммы, в 2023 году &amp;lt;a href=&amp;#34;https://www.abnamro.nl/en/personal/mortgages/buying-a-house/dutch-national-mortgage-guarantee/index.html&amp;#34;&amp;gt;405 тысяч&amp;lt;/a&amp;gt;. Рыночная цена узнается через новый appraisal report.&amp;lt;/p&amp;gt;
-&amp;lt;h2 id=&amp;#34;продажа&amp;#34;&amp;gt;Продажа&amp;lt;/h2&amp;gt;
-&amp;lt;p&amp;gt;Пока информации нет, &amp;lt;a href=&amp;#34;https://github.com/ru-nl/faq/blob/master/content/house/_index.md&amp;#34;&amp;gt;этот текст ждёт ваших правок&amp;lt;/a&amp;gt;.&amp;lt;/p&amp;gt;</description><turbo:content><![CDATA[
+&amp;lt;p&amp;gt;Чтобы на неё податься нужно чтобы и ипотека, и рыночная цена дома были ниже установленной &amp;lt;a href=&amp;#34;https://www.nhg.nl/&amp;#34;&amp;gt;NHG&amp;lt;/a&amp;gt; суммы, в 2023 году &amp;lt;a href=&amp;#34;https://www.abnamro.nl/en/personal/mortgages/buying-a-house/dutch-national-mortgage-guarantee/index.html&amp;#34;&amp;gt;405 тысяч&amp;lt;/a&amp;gt;. Рыночная цена узнается через новый appraisal report.&amp;lt;/p&amp;gt;</description><turbo:content><![CDATA[
             <header><h1>Жильё</h1></header>
 			<h2 id="покупка">Покупка</h2>
 <p>Гид в одном файле: <a href="house-buying-guide-nl.pdf">скачать PDF</a></p>
@@ -178,6 +184,14 @@
 </li>
 <li>
 <p>Поиск подходящего жилья;</p>
+<ul>
+<li>
+<p>Если не знаете, что ищете, и это влезает в ваш бюджет, ищите жильё 1992 года постройки и новее, тем самым вы значительно снижаете вероятность серьёзно ошибиться, и получаете жильё с энергоэффективностью B или лучше. Из документации компании которая выдаёт energy labels:</p>
+<blockquote>
+<p>Under energy label regulations, the starting point for the insulation values of structures is the year of construction of the property. Only if evidence/documentation is provided that shows better insulation values can be taken into account by the energy adviser. PLEASE NOTE: For houses built before 1992, it is therefore very important to provide documentation/evidence.</p>
+</blockquote>
+</li>
+</ul>
 </li>
 <li>
 <p>Ставки на понравившиеся варианты;</p>
@@ -201,8 +215,6 @@
 </ul>
 <h3 id="national-mortgage-guarantee">National Mortgage Guarantee</h3>
 <p>Чтобы на неё податься нужно чтобы и ипотека, и рыночная цена дома были ниже установленной <a href="https://www.nhg.nl/">NHG</a> суммы, в 2023 году <a href="https://www.abnamro.nl/en/personal/mortgages/buying-a-house/dutch-national-mortgage-guarantee/index.html">405 тысяч</a>. Рыночная цена узнается через новый appraisal report.</p>
-<h2 id="продажа">Продажа</h2>
-<p>Пока информации нет, <a href="https://github.com/ru-nl/faq/blob/master/content/house/_index.md">этот текст ждёт ваших правок</a>.</p>
 ]]></turbo:content><enclosure url="https://ru-faq.nl/" length="438598" type="image/jpg"/></item><item turbo="true"><title>Изучение программирования</title><link>https://ru-faq.nl/work/learn_programming/</link><media:rating scheme="urn:simple">nonadult</media:rating><category>Technology</category><category>Технологии</category><turbo:source>https://ru-faq.nl/work/learn_programming/</turbo:source><turbo:topic>Изучение программирования</turbo:topic><guid>https://ru-faq.nl/work/learn_programming/</guid><description>&amp;lt;p&amp;gt;На этой странице собрана информация для тех, кто хочет найти первую работу в программировании в Нидерландах.&amp;lt;/p&amp;gt;
 &amp;lt;h2 id=&amp;#34;codaisseur&amp;#34;&amp;gt;Codaisseur&amp;lt;/h2&amp;gt;
 &amp;lt;p&amp;gt;11-недельные курсы &amp;lt;a href=&amp;#34;https://codaisseur.com/&amp;#34;&amp;gt;Codaisseur&amp;lt;/a&amp;gt; &amp;lt;em&amp;gt;учили&amp;lt;/em&amp;gt; студентов программированию для веба, после чего те выпускались как Full-Stack\Frontend разработчики и начинали искать работу.&amp;lt;/p&amp;gt;
